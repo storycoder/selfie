@@ -1,0 +1,2 @@
+module JoeStockHelper
+end
