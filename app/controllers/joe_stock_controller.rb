@@ -9,5 +9,8 @@ class JoeStockController < ApplicationController
   def contact
   end
 
+  def gallery
+  end
+
 end
 
